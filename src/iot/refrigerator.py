@@ -1,4 +1,4 @@
-from device import IoTDevice
+from src.iot.device import IoTDevice
 
 
 class Refrigerator(IoTDevice):
